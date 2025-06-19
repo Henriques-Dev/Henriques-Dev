@@ -101,7 +101,7 @@ Me chamo Lucas Henriques, tenho 25 anos e sou do Rio de Janeiro. Atualmente, cur
 <br/>
 <br/>
 
-<!--
+
 ### 📊 Estatísticas
 
 <p>
@@ -121,4 +121,4 @@ Me chamo Lucas Henriques, tenho 25 anos e sou do Rio de Janeiro. Atualmente, cur
   />
 
 </p>
--->
+
