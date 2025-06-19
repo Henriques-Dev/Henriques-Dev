@@ -104,21 +104,22 @@ Me chamo Lucas Henriques, tenho 25 anos e sou do Rio de Janeiro. Atualmente, cur
 
 ### 📊 Estatísticas
 
-<p>
+### 📊 Estatísticas
+
+<div align="left" style="display: flex; flex-direction: row; gap: 10px;">
+
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="150" 
+    width="45%" 
     src="https://github-readme-stats.vercel.app/api?username=Henriques-Dev&show_icons=true&theme=codeSTACKr&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriques-Dev&theme=codeSTACKr&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="150" 
+    width="45%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriques-Dev&theme=codeSTACKr&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
-</p>
-
+</div>
