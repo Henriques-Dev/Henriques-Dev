@@ -70,7 +70,7 @@ Tenho focado meus estudos em **Java** e suas principais ferramentas para o desen
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Sistema de Gestão de Estoque**](https://github.com/Henriques-Dev/NOME-DO-REPOSITORIO) | Aplicação para controle de produtos e estoque, desenvolvida para praticar fundamentos e boas práticas. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**Sistema de Gestão de Estoque**](https://github.com/Henriques-Dev/gestao-estoque.git) | Aplicação para controle de produtos e estoque, desenvolvida para praticar fundamentos e boas práticas. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 <!-- | [**Seu projeto aqui**](https://github.com/Henriques-Dev/NOME-DO-REPOSITORIO) | Breve descrição do que ele faz. | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | -->
 
 ---
